@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+# dati personali: non committare
+data/
+export.zip
+esportazione.xml
+export.xml
