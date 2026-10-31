@@ -6,3 +6,4 @@ data/
 export.zip
 esportazione.xml
 export.xml
+*.tsbuildinfo
